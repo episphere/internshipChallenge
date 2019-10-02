@@ -65,8 +65,8 @@ We used the **\$where** clause to check for the presence of the word "cancer" in
 
 - **Visualizations**: Examples of some basic analyses you could run might be:
 
- - Mortality rates across different types of cancers
- - Prevalence of cancer diagnoses among people with various racial and/or ethnic backgrounds
- - Frequency of the different types of cancers within age groups, and correlation of specific types with specific age groups
+  - Mortality rates across different types of cancers
+  - Prevalence of cancer diagnoses among people with various racial and/or ethnic backgrounds
+  - Frequency of the different types of cancers within age groups, and correlation of specific types with specific age groups
 
 None of these are mandatory, and you may choose to create your own. There is no limit on the number of visualizations, but anywhere between 2 and 5 should be good -- just ensure that they are not repetitive.
