@@ -29,11 +29,12 @@ This is actually a REST API that allows you to efficiently query the dataset. Th
 
 The first thing you should do is to _**Sign up for an app token**_ on the page that opens up. This token will allow you to make calls to the API without having to worry about being restricted. The documentation contains more info about how to use the token, along with helpful information about the columns in the dataset. 
 
-You might find that there are a few fields in even the reduced dataset that are irrelevant to your analyses (such as perhaps the _operating_certificate_number_), and you may choose to disregard those fields or remove them from the base dataset you use in your analysis.
-
 Your task is to use this data and create meaningful visualizations from it, be it in the form of histograms, line graphs, pie charts or any other you deem suitable for the analysis. These visualizations should be placed on a webpage that can be seen in a browser.
 
-_Note: You could of course write your own functions to perform querying on the entire data yourselves, which would be completely fine by us. However, this is meant to be a fairly low-effort challenge, so we recommend that you leverage the functionality provided by the API as much as possible, and only perform your own queries when the API cannot provide you what you need._
+\
+_Note:_
+- _You could of course write your own functions to perform querying on the entire data yourselves, which would be completely fine by us. However, this is meant to be a fairly low-effort challenge, so we recommend that you leverage the functionality provided by the API as much as possible, and only perform your own queries when the API cannot provide you what you need._
+- _You might find that there are a few fields in even the reduced dataset that are irrelevant to your analyses (such as perhaps the _operating\_certificate\_number_), and you may choose to disregard those fields or remove them from the base dataset you use in your analysis._
 
 
 
