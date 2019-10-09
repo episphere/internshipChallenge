@@ -56,9 +56,9 @@ For serious bonus points, you can host the dashboard you create on a free hostin
     `$limit - defines how many observations to return`
 
     We used the **\$where** clause to check for the presence of the word "cancer" in the patient's diagnosis (the _ccs_diagnosis_description_ field in the dataset), and the **$limit** clause to get back only 10 results.  
-    Try changing the value of $limit to 50, or replace the word "cancer" with "pneumonia" in the URL.
+    Try changing the value of $limit from 10 to 50, or replace the word "cancer" with "pneumonia" in the URL.
 
-    _Note: You could of course write your own code to perform querying on the entire data yourselves, which would be completely fine by us. However, this is meant to be a fairly low-effort challenge, so we recommend that you use the functionality provided by the API as much as possible, and only write your own querying functions when the API cannot provide you what you need._
+    _Note: You could of course write your own code to perform querying on the entire data yourselves. However, this is meant to be a fairly low-effort challenge, so we would like that you use the functionality provided by the API as much as possible, and only write your own querying functions when the API cannot give you what you need._
 
 - **Visualizations**: Examples of some basic analyses you could run might be:
 
