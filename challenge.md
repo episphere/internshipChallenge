@@ -33,7 +33,7 @@ Your task is to use this dataset and create meaningful visualizations that show 
 
 
 ## Submission
-Your code must be available as a [GitHub](https://github.com/) repository, and you need only send us the URL to the repository with your application.
+Your code must be available as a [GitHub](https://github.com/) repository. Please send your résumé and the repo URL to: [bhawsarpm@nih.gov](mailto:bhawsarpm@nih.gov).
 For serious bonus points, you can host the dashboard you create on a free hosting service (such as [GitHub Pages](https://pages.github.com/) or [Heroku](https://www.heroku.com/)) and add the URL for where it is hosted to your README.md file on GitHub.
 
 
